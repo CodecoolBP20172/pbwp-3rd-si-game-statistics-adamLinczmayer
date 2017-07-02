@@ -3,4 +3,4 @@ The total number of the copies have been sold is: 187.16
 The average selling is: 7.798333333333333
 The longest title cosists of 52 characters.
 The average of the release dates is: 2003
-The properties of the game is: ['Terraria', 12.0, 2011, 'Action-adventure', 'Re-Logic']
+The properties of the game is: ['Minecraft', 23.0, 2009, 'Survival game', 'Microsoft']
